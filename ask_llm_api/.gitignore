@@ -1,0 +1,5 @@
+/venv
+/.chroma
+/.idea
+__pycache__
+tmp.pdf
