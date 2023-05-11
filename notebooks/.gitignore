@@ -1,0 +1,5 @@
+.idea
+openai_api_key.txt
+/venv
+/.chroma
+.pynb_checkpoints
