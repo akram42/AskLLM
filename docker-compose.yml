@@ -1,0 +1,10 @@
+version: '3'
+services:
+  frontend:
+    build: ./ask-llm-app
+    ports:
+      - "3000:3000"
+  backend:
+    build: ./ask_llm_api
+    ports:
+      - "8000:8000"
